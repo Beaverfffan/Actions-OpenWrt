@@ -1,5 +1,5 @@
 默认添加了kenzo或nuexin的feeds，配置config时请注意保持一致。
-xwrt尚未确认切换版本号的命令是否可用
+xwrt编译的是最新发行版
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
